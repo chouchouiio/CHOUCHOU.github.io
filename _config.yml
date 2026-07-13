@@ -23,7 +23,7 @@ repository               : "chouchouiio/CHOUCHOU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.svg"
   name             : "Dejing Zhou"
   pronouns         :
   bio              : "M.Sc. student in Artificial Intelligence at the University of Macau"
