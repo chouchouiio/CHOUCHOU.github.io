@@ -2,8 +2,8 @@
 permalink: /
 title: "O meu currículo"
 author_profile: true
-header:
-  image: "um-banner.svg"
+content_banner: "um-banner.svg"
+content_banner_alt: "University of Macau"
 redirect_from:
   - /about/
   - /about.html
