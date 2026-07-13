@@ -2,6 +2,8 @@
 permalink: /
 title: "O meu currículo"
 author_profile: true
+header:
+  image: "um-banner.svg"
 redirect_from:
   - /about/
   - /about.html
