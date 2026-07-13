@@ -82,7 +82,9 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
 </div>
 
 Reinforcement learning, UAV visual detection, and edge-device meter detection and reading.
-\nCompetition Awards\n======
+
+Competition Awards
+======
 
 - **2024 — Outstanding Winner**, COMAP's Mathematical Contest in Modeling (MCM) **(Team Leader)**
 - **2024 — National Second Prize and Provincial First Prize**, RAICOM Robot Developer Competition **(Team Leader)**
