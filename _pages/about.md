@@ -64,50 +64,50 @@ IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 1 (**first/co-firs
 Internship Experience
 ======
 
-<div style="font-size:1.25em;font-weight:700;margin-top:0.8rem;">Microsoft — Applied Scientist Intern</div>
-
-<div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:0.35rem 0 0.8rem;">
-  <img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" style="height:34px;width:auto;max-width:180px;object-fit:contain;">
+<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1rem 0 0.35rem;">
+  <img src="{{ '/assets/images/organizations/microsoft.svg' | relative_url }}" alt="Microsoft" style="width:160px;height:auto;object-fit:contain;flex:0 0 auto;">
+  <div style="flex:1 1 260px;">
+    <div style="font-size:1.25em;font-weight:700;">Microsoft AI (MAI) — Applied Scientist Intern</div>
+    <div style="font-weight:700;margin-top:0.2rem;">Bing Group | Beijing, China | Jun. 2026 - Present</div>
+  </div>
 </div>
-
-<p><strong>Microsoft AI (MAI), Bing Group | Beijing, China | Jun. 2026 - Present</strong></p>
 
 LLMs, agents, and AI Search in Bing Group.
 
-### Visual Image Algorithm Intern, Papergames
-
-<div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:0.35rem 0 0.8rem;">
-  <img src="https://assets.papegames.com/nikkiweb/paper/paper-home-cn/_next/static/media/intro_logo.b626ba11.png" alt="Papergames" style="height:38px;width:auto;max-width:180px;object-fit:contain;">
+<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
+  <img src="{{ '/assets/images/organizations/papergames.svg' | relative_url }}" alt="Papergames" style="width:145px;height:auto;object-fit:contain;flex:0 0 auto;">
+  <div style="flex:1 1 260px;">
+    <div style="font-size:1.1em;font-weight:700;">Papergames — Visual Image Algorithm Intern</div>
+    <div style="font-weight:700;margin-top:0.2rem;">Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026</div>
+  </div>
 </div>
-
-<p><strong>Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026</strong></p>
 
 Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows.
 
-### Audio and Video Algorithm Intern, Baidu
-
-<div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin:0.35rem 0 0.8rem;">
-  <img src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" alt="Baidu" style="height:42px;width:auto;max-width:150px;object-fit:contain;">
+<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
+  <img src="{{ '/assets/images/organizations/baidu.svg' | relative_url }}" alt="Baidu" style="width:145px;height:auto;object-fit:contain;flex:0 0 auto;">
+  <div style="flex:1 1 260px;">
+    <div style="font-size:1.1em;font-weight:700;">Baidu — Audio and Video Algorithm Intern</div>
+    <div style="font-weight:700;margin-top:0.2rem;">YY Live Business Unit | May 2025 - Aug. 2025</div>
+  </div>
 </div>
-
-<p><strong>YY Live Business Unit | May 2025 - Aug. 2025</strong></p>
 
 Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis.
 
-### Artificial Intelligence Algorithm Intern, Guangdong Institute of Computing Technology Application
-
-<div style="display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin:0.35rem 0 0.8rem;">
-  <img src="https://www.scut.edu.cn/_upload/site/01/3b/315/logo.png" alt="South China University of Technology" title="South China University of Technology" style="height:42px;width:auto;max-width:170px;object-fit:contain;">
-  <img src="https://www.scau.edu.cn/_upload/tpl/06/94/1684/template1684/images/logo_green.svg" alt="South China Agricultural University" title="South China Agricultural University" style="height:42px;width:auto;max-width:170px;object-fit:contain;">
-  <img src="https://gdstc.gd.gov.cn/gdkjnj2017/logo.png" alt="Department of Science and Technology of Guangdong Province" title="Department of Science and Technology of Guangdong Province" style="height:42px;width:auto;max-width:190px;object-fit:contain;">
+<div style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
+  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;flex:0 1 380px;">
+    <img src="{{ '/assets/images/organizations/scut.svg' | relative_url }}" alt="South China University of Technology" title="South China University of Technology" style="width:118px;height:auto;object-fit:contain;">
+    <img src="{{ '/assets/images/organizations/scau.svg' | relative_url }}" alt="South China Agricultural University" title="South China Agricultural University" style="width:118px;height:auto;object-fit:contain;">
+    <img src="{{ '/assets/images/organizations/gdstc.svg' | relative_url }}" alt="Department of Science and Technology of Guangdong Province" title="Department of Science and Technology of Guangdong Province" style="width:128px;height:auto;object-fit:contain;">
+  </div>
+  <div style="flex:1 1 280px;">
+    <div style="font-size:1.1em;font-weight:700;">Guangdong Institute of Computing Technology Application — Artificial Intelligence Algorithm Intern</div>
+    <div style="font-weight:700;margin-top:0.2rem;">R&amp;D Department | Guangzhou, China | Mar. 2024 - Sep. 2024</div>
+  </div>
 </div>
 
-<p><strong>R&amp;D Department | Guangzhou, China | Mar. 2024 - Sep. 2024</strong></p>
-
 Reinforcement learning, UAV visual detection, and edge-device meter detection and reading.
-
-Honors and Awards
-======
+\nHonors and Awards\n======
 
 ### Competition Awards
 
