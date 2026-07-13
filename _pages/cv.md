@@ -30,7 +30,7 @@ Publications and Manuscripts
 ======
 
 1. **PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition.** **Dejing Zhou** et al. *IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027. [DOI](https://doi.org/10.1109/LRA.2026.3683589)
-2. **MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** **Dejing Zhou**, Junxian Chen, et al. *Frontiers in Plant Science*, 2025/2026. Co-first and first-listed author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
+2. **MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** **Dejing Zhou**, Junxian Chen, et al. *Frontiers in Plant Science*, 2026. Co-first and first-listed author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 3. **SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** **Dejing Zhou** et al. *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 4. **Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** Mentor first author; **Dejing Zhou** as first student author. *Transactions of the Chinese Society for Agricultural Machinery*, 2025. EI-indexed. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 5. **DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition.** **Dejing Zhou** et al. Manuscript under review at *IEEE Internet of Things Journal*. Co-first author.
