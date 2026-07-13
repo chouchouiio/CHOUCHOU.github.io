@@ -45,7 +45,7 @@ Internship Experience
   <img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft" style="height:34px;width:auto;max-width:180px;object-fit:contain;">
 </div>
 
-**Microsoft AI (MAI), Bing Group | Beijing, China | Jun. 2026 - Present**
+<p><strong>Microsoft AI (MAI), Bing Group | Beijing, China | Jun. 2026 - Present</strong></p>
 
 LLMs, agents, and AI Search in Bing Group.
 
@@ -55,7 +55,7 @@ LLMs, agents, and AI Search in Bing Group.
   <img src="https://assets.papegames.com/nikkiweb/paper/paper-home-cn/_next/static/media/intro_logo.b626ba11.png" alt="Papergames" style="height:38px;width:auto;max-width:180px;object-fit:contain;">
 </div>
 
-**Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026**
+<p><strong>Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026</strong></p>
 
 Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows.
 
@@ -65,7 +65,7 @@ Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision,
   <img src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" alt="Baidu" style="height:42px;width:auto;max-width:150px;object-fit:contain;">
 </div>
 
-**YY Live Business Unit | May 2025 - Aug. 2025**
+<p><strong>YY Live Business Unit | May 2025 - Aug. 2025</strong></p>
 
 Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis.
 
@@ -77,7 +77,7 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
   <img src="https://gdstc.gd.gov.cn/gdkjnj2017/logo.png" alt="Department of Science and Technology of Guangdong Province" title="Department of Science and Technology of Guangdong Province" style="height:42px;width:auto;max-width:190px;object-fit:contain;">
 </div>
 
-**R&D Department | Guangzhou, China | Mar. 2024 - Sep. 2024**
+<p><strong>R&amp;D Department | Guangzhou, China | Mar. 2024 - Sep. 2024</strong></p>
 
 Reinforcement learning, UAV visual detection, and edge-device meter detection and reading.
 
