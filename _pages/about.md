@@ -27,7 +27,7 @@ News
 - **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
 - **2026:** **SMBF**, our RGB-T semantic segmentation work, was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
 - **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
-- **2025:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
+- **2026:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
 - **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
 
 Selected Publications
@@ -44,7 +44,7 @@ A topology-aware LiDAR place-recognition network that combines persistent-homolo
 ### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism
 
 **Dejing Zhou**, Junxian Chen, et al.  
-*Frontiers in Plant Science*, 2025/2026. Co-first and first-listed author.  
+*Frontiers in Plant Science*, 2026. Co-first and first-listed author.  
 [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
 A lightweight remote-sensing segmentation model with attention-guided multi-scale patch embedding and contextual fusion for small, weak-texture, and visually ambiguous disease regions.
