@@ -27,7 +27,7 @@ Research Interests
 News
 ======
 
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! Jun. 2026: Joined Microsoft AI (MAI), Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:**: Joined Microsoft AI (MAI), Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Our work **SMBF** was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
@@ -37,11 +37,16 @@ News
 
 Selected Publications
 ======
+### SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation
+
+**Dejing Zhou** et al.  
+*IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
+
 
 ### PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition
 
 **Dejing Zhou** et al.  
-*IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027.  
+*IEEE Robotics and Automation Letters (R-AL)*, 2026. First author. Transferred to ICRA 2027.  
 [DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
 ### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism
@@ -50,10 +55,7 @@ Selected Publications
 *Frontiers in Plant Science*, 2026. Co-first and first-listed author.  
 [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
-### SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation
 
-**Dejing Zhou** et al.  
-*IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
 ### Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO
 
