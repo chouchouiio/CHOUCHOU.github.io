@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "O meu currículo"
 author_profile: true
 redirect_from:
   - /about/
