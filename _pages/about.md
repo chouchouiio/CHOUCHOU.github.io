@@ -84,6 +84,7 @@ Internship Experience
 
 LLMs, agents, and AI Search in Bing Group.
 
+
 <div style="margin:1.35rem 0 0.35rem;">
   <div>
     <img src="{{ '/assets/images/organizations/papergames.svg' | relative_url }}" alt="Papergames" style="display:block;width:145px;height:auto;object-fit:contain;">
@@ -96,6 +97,7 @@ LLMs, agents, and AI Search in Bing Group.
 
 Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows.
 
+
 <div style="margin:1.35rem 0 0.35rem;">
   <div>
     <img src="{{ '/assets/images/organizations/baidu.svg' | relative_url }}" alt="Baidu" style="display:block;width:145px;height:auto;object-fit:contain;">
@@ -107,6 +109,7 @@ Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision,
 </div>
 
 Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis.
+
 
 <div style="margin:1.35rem 0 0.35rem;">
   <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
