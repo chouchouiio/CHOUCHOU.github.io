@@ -5,32 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>My research spans computer vision, multimodal perception, semantic segmentation, and robotic place recognition. An asterisk-style role note is written explicitly for papers with shared or student authorship.</p>
 
-{% include base_path %}
+<h2>Journal Articles</h2>
+<hr />
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition</h3>
+<p><strong>Dejing Zhou</strong> et al.<br>
+<em>IEEE Robotics and Automation Letters</em>, 2026. <strong>First author.</strong> Transferred to ICRA 2027.<br>
+<a href="https://doi.org/10.1109/LRA.2026.3683589">DOI: 10.1109/LRA.2026.3683589</a></p>
+<p>Combines persistent-homology descriptors with Mamba/RWKV spatiotemporal modeling for robust LiDAR place recognition under occlusion, viewpoint rotation, and dynamic interference.</p>
 
+<h3>MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism</h3>
+<p><strong>Dejing Zhou</strong>, Junxian Chen, et al.<br>
+<em>Frontiers in Plant Science</em>, 2025/2026. <strong>Co-first and first-listed author.</strong><br>
+<a href="https://doi.org/10.3389/fpls.2025.1727626">DOI: 10.3389/fpls.2025.1727626</a></p>
+<p>Introduces attention-guided multi-scale patch embedding and contextual fusion for lightweight segmentation of small, weak-texture, and ambiguous disease regions in low-altitude remote-sensing imagery.</p>
 
+<h3>Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO</h3>
+<p>Mentor first author; <strong>Dejing Zhou</strong> as <strong>first student author</strong>.<br>
+<em>Transactions of the Chinese Society for Agricultural Machinery</em>, 2025. EI-indexed.<br>
+<a href="https://doi.org/10.6041/j.issn.1000-1298.2025.10.042">DOI: 10.6041/j.issn.1000-1298.2025.10.042</a></p>
 
+<h2>Conference Papers</h2>
+<hr />
+
+<h3>SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation</h3>
+<p><strong>Dejing Zhou</strong> et al.<br>
+<em>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</em>. <strong>Accepted; first author.</strong></p>
+<p>Uses saliency context modeling, prototype-level semantic bridging, and bidirectional cross-modal attention to improve RGB-T segmentation under day-night variations and complex scenes.</p>
+
+<h2>Manuscripts</h2>
+<hr />
+
+<h3>DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition</h3>
+<p><strong>Dejing Zhou</strong> et al.<br>
+Under review at <em>IEEE Internet of Things Journal</em>. <strong>Co-first author.</strong></p>
+<p>Develops differentiable dynamic graph aggregation, optimal-transport score redistribution, and coarse-to-fine average-precision optimization for real-time visual place-recognition re-ranking.</p>
