@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with full scholarship funding. I received my B.Eng. in Artificial Intelligence from **South China Agricultural University** in 2025. My research is supervised by Prof. Chi-Man Vong.
+Hello! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with full scholarship funding. 
+I received my B.Eng. in Artificial Intelligence from **South China Agricultural University** in 2025. My research is supervised by Prof. Chi-Man Vong.
 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**.
+
+I enjoy playing the guitar and soccer; my favorite musician is Yuki Matsui 🎸 and my favorite soccer player is Dybala ⚽. I look forward to discussing music and sports with you.
 
 Research Interests
 ======
@@ -25,11 +28,12 @@ News
 ======
 
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! Jun. 2026: Joined Microsoft AI (MAI), Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
-- **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
-- **2026:** **SMBF**, our RGB-T semantic segmentation work, was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
-- **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
-- **2026:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
-- **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** **SMBF**, our RGB-T semantic segmentation work, was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Joined the YY Live at Baidu as a Audio and Video Algorithm Intern.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
 
 Selected Publications
 ======
