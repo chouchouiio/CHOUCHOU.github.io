@@ -107,7 +107,9 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
 </div>
 
 Reinforcement learning, UAV visual detection, and edge-device meter detection and reading.
-\nHonors and Awards\n======
+
+Honors and Awards
+======
 
 ### Competition Awards
 
