@@ -64,9 +64,11 @@ IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 1 (**first/co-firs
 Internship Experience
 ======
 
-<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1rem 0 0.35rem;">
-  <img src="{{ '/assets/images/organizations/microsoft.svg' | relative_url }}" alt="Microsoft" style="width:160px;height:auto;object-fit:contain;flex:0 0 auto;">
-  <div style="flex:1 1 260px;">
+<div style="margin:1rem 0 0.35rem;">
+  <div>
+    <img src="{{ '/assets/images/organizations/microsoft.svg' | relative_url }}" alt="Microsoft" style="display:block;width:160px;height:auto;object-fit:contain;">
+  </div>
+  <div style="margin-top:0.65rem;">
     <div style="font-size:1.25em;font-weight:700;">Microsoft AI (MAI) — Applied Scientist Intern</div>
     <div style="font-weight:700;margin-top:0.2rem;">Bing Group | Beijing, China | Jun. 2026 - Present</div>
   </div>
@@ -74,9 +76,11 @@ Internship Experience
 
 LLMs, agents, and AI Search in Bing Group.
 
-<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
-  <img src="{{ '/assets/images/organizations/papergames.svg' | relative_url }}" alt="Papergames" style="width:145px;height:auto;object-fit:contain;flex:0 0 auto;">
-  <div style="flex:1 1 260px;">
+<div style="margin:1.35rem 0 0.35rem;">
+  <div>
+    <img src="{{ '/assets/images/organizations/papergames.svg' | relative_url }}" alt="Papergames" style="display:block;width:145px;height:auto;object-fit:contain;">
+  </div>
+  <div style="margin-top:0.65rem;">
     <div style="font-size:1.1em;font-weight:700;">Papergames — Visual Image Algorithm Intern</div>
     <div style="font-weight:700;margin-top:0.2rem;">Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026</div>
   </div>
@@ -84,9 +88,11 @@ LLMs, agents, and AI Search in Bing Group.
 
 Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows.
 
-<div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
-  <img src="{{ '/assets/images/organizations/baidu.svg' | relative_url }}" alt="Baidu" style="width:145px;height:auto;object-fit:contain;flex:0 0 auto;">
-  <div style="flex:1 1 260px;">
+<div style="margin:1.35rem 0 0.35rem;">
+  <div>
+    <img src="{{ '/assets/images/organizations/baidu.svg' | relative_url }}" alt="Baidu" style="display:block;width:145px;height:auto;object-fit:contain;">
+  </div>
+  <div style="margin-top:0.65rem;">
     <div style="font-size:1.1em;font-weight:700;">Baidu — Audio and Video Algorithm Intern</div>
     <div style="font-weight:700;margin-top:0.2rem;">YY Live Business Unit | May 2025 - Aug. 2025</div>
   </div>
@@ -94,13 +100,13 @@ Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision,
 
 Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis.
 
-<div style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin:1.35rem 0 0.35rem;">
-  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;flex:0 1 380px;">
+<div style="margin:1.35rem 0 0.35rem;">
+  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
     <img src="{{ '/assets/images/organizations/scut.svg' | relative_url }}" alt="South China University of Technology" title="South China University of Technology" style="width:118px;height:auto;object-fit:contain;">
     <img src="{{ '/assets/images/organizations/scau.svg' | relative_url }}" alt="South China Agricultural University" title="South China Agricultural University" style="width:118px;height:auto;object-fit:contain;">
     <img src="{{ '/assets/images/organizations/gdstc.svg' | relative_url }}" alt="Department of Science and Technology of Guangdong Province" title="Department of Science and Technology of Guangdong Province" style="width:128px;height:auto;object-fit:contain;">
   </div>
-  <div style="flex:1 1 280px;">
+  <div style="margin-top:0.65rem;">
     <div style="font-size:1.1em;font-weight:700;">Guangdong Institute of Computing Technology Application — Artificial Intelligence Algorithm Intern</div>
     <div style="font-weight:700;margin-top:0.2rem;">R&amp;D Department | Guangzhou, China | Mar. 2024 - Sep. 2024</div>
   </div>
