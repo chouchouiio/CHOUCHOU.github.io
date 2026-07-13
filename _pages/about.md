@@ -1,56 +1,110 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with full scholarship funding. I received my B.Eng. in Artificial Intelligence from **South China Agricultural University** in 2025. My research is supervised by Prof. Chi-Man Vong.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, and topology-aware deep learning**. I am particularly interested in combining geometric and topological structure with efficient sequence models to improve perception under occlusion, viewpoint changes, dynamic environments, and ambiguous object boundaries.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Semantic segmentation and scene understanding
+- Multimodal and RGB-T perception
+- LiDAR and visual place recognition
+- Persistent homology and topology-aware representation learning
+- Efficient vision architectures, including Mamba and RWKV
+- Autonomous driving and robotic perception
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
+- **2026:** **SMBF**, our RGB-T semantic segmentation work, was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
+- **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
+- **2026:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
+- **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Selected Publications
+======
 
-**Markdown generator**
+### PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Dejing Zhou** et al.  
+*IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027.  
+[DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+A topology-aware LiDAR place-recognition network that combines persistent-homology descriptors with Mamba/RWKV spatiotemporal modeling to improve robustness to occlusion, viewpoint rotation, and dynamic environments.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Dejing Zhou**, Junxian Chen, et al.  
+*Frontiers in Plant Science*, 2026. Co-first and first-listed author.  
+[DOI](https://doi.org/10.3389/fpls.2025.1727626)
+
+A lightweight remote-sensing segmentation model with attention-guided multi-scale patch embedding and contextual fusion for small, weak-texture, and visually ambiguous disease regions.
+
+### SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation
+
+**Dejing Zhou** et al.  
+*IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
+
+A saliency-guided RGB-T framework that integrates prototype-level semantic bridging and bidirectional cross-modal attention for robust segmentation under day-night variations and complex scenes.
+
+### Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO
+
+Mentor first author; **Dejing Zhou** as first student author.  
+*Transactions of the Chinese Society for Agricultural Machinery*, 2025. EI-indexed.  
+[DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
+
+### DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition
+
+**Dejing Zhou** et al.  
+Manuscript under review at *IEEE Internet of Things Journal*. Co-first author.
+
+Research Experience
+======
+
+### Visual Image Algorithm Intern, Papergames
+**Technical Research Institute | Shanghai, China | Apr. 2026 - Jun. 2026**
+
+Developed Flux-based image-to-image workflows and LoRA fine-tuning pipelines; improved multi-component fashion segmentation; contributed to mobile gesture recognition and robust face tracking; and built controllable panorama and visual-effect workflows using Real-ESRGAN, world models, ComfyUI, and Seedream.
+
+### Audio and Video Algorithm Intern, Baidu
+**YY Live Business Unit | May 2025 - Aug. 2025**
+
+Built an automated speaker-recognition and speech-segmentation pipeline with an improved ECAPA-TDNN model, attention mechanisms, Chinese-corpus fine-tuning, and clustering. The work was deployed in an AI singing voice synthesis project.
+
+### Artificial Intelligence Algorithm Intern, Guangdong Institute of Computing Technology Application
+**R&D Department | Mar. 2024 - Sep. 2024**
+
+Worked on reinforcement-learning-based waste collection and traffic decision-making, UAV-based industrial defect detection, and high-precision multi-pointer/digital meter detection and reading on edge devices.
+
+Honors and Awards
+======
+
+- Student Research Assistant with full scholarship funding, University of Macau
+- Outstanding Graduate, South China Agricultural University
+- Nominee for Academic Star
+- Outstanding Communist Party Member
+- Vice President, Artificial Intelligence Association, South China Agricultural University
+- Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2027)
+- **National First Prize**, RAICOM Robot Developer Competition, 2023
+- **National Second Prize and Provincial First Prize**, RAICOM Robot Developer Competition, 2024
+- **National Third Prize and Provincial First Prize**, Zhengda Cup National College Student Market Survey and Analysis Competition, 2024
+- **First Prize**, Asia-Pacific Mathematical Contest in Modeling, 2023
+- **First Prize**, Huashu Cup International Mathematical Contest in Modeling, 2022
+- **Provincial Second Prize**, Huawei ICT Competition Guangdong Final, 2023
+
+Additional Achievements
+======
+
+- 11 national- and provincial-level academic competition awards
+- 3 authorized computer software copyrights
+- 3 invention or utility-model patents
+- CET-4 and CET-6 qualifications
