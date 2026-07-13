@@ -112,7 +112,7 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
 
 
 <div style="margin:1.35rem 0 0.35rem;">
-  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+  <div style="display:flex;flex-direction:column;align-items:flex-start;gap:8px;">
     <img src="{{ '/assets/images/organizations/scut.svg' | relative_url }}" alt="South China University of Technology" title="South China University of Technology" style="width:118px;height:auto;object-fit:contain;">
     <img src="{{ '/assets/images/organizations/scau.svg' | relative_url }}" alt="South China Agricultural University" title="South China Agricultural University" style="width:118px;height:auto;object-fit:contain;">
     <img src="{{ '/assets/images/organizations/gdstc.svg' | relative_url }}" alt="Department of Science and Technology of Guangdong Province" title="Department of Science and Technology of Guangdong Province" style="width:128px;height:auto;object-fit:contain;">
