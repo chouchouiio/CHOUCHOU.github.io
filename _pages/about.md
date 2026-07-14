@@ -39,19 +39,19 @@ News
 
 Selected Publications
 ======
-### SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation
+📃 ### SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation
 
 **Dejing Zhou** et al.  
 *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
 
-### PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition
+📃 ### PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition
 
 **Dejing Zhou** et al.  
 *IEEE Robotics and Automation Letters (R-AL)*, 2026. First author. Transferred to ICRA 2027.  
 [DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
-### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism
+📃 ### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism
 
 **Dejing Zhou**, Junxian Chen, et al.  
 *Frontiers in Plant Science*, 2026. Co-first and first-listed author.  
@@ -59,7 +59,7 @@ Selected Publications
 
 
 
-### Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO
+📃 ### Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO
 
 Mentor first author; **Dejing Zhou** as first student author.  
 *Transactions of the Chinese Society for Agricultural Machinery*, 2025. EI-indexed.  
@@ -67,7 +67,7 @@ Mentor first author; **Dejing Zhou** as first student author.
 
 ### Manuscripts Under Review
 
-IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 1 (**first/co-first author**).
+✒️ IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 1 (**first/co-first author**).
 
 Internship Experience
 ======
