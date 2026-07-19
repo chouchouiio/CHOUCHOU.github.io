@@ -44,21 +44,21 @@ Selected Publications
 
 **Dejing Zhou** , Liulei Zhang, Derek.F Wong, and Chi-Man Vong.  
 
-*IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
+*IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. **First author**.
 
 
 - <span style="font-size:1.15em;"><strong>2. 📃 **### PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition**
 
 **Dejing Zhou**, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong.  
 
-*IEEE Robotics and Automation Letters (R-AL)*, 2026. First author. Transferred to ICRA 2027.  
+*IEEE Robotics and Automation Letters (R-AL)*, 2026. **First author**. Transferred to ICRA 2027.  
 [DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
 - <span style="font-size:1.15em;"><strong>3. 📃 **### MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism**
 
 **Dejing Zhou**, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao.  
 
-*Frontiers in Plant Science*, 2026. Co-first and first-listed author.  
+*Frontiers in Plant Science*, 2026. **first author**.  
 [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
 
