@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hola, Olá pessoal! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with full scholarship funding. My research is supervised by Prof. Chi-Man Vong.
+Olá pessoal! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with full scholarship funding. My research is supervised by Prof. Chi-Man Vong.
 I received my B.Eng. in Artificial Intelligence from **South China Agricultural University** in 2025. My research was supervised by Prof. Jianqiang Lu.
 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**.
