@@ -29,13 +29,14 @@ Research Interests
 News
 ======
 
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:**: Joined Microsoft AI (MAI), Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Our work **SMBF** was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Our work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined Microsoft AI (MAI), Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **SMBF** was accepted by the *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** **MSCF-LUNet** was published in *Frontiers in Plant Science*.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **MSCF-LUNet** was published in *Frontiers in Plant Science*.
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Joined the YY Live at Baidu as a Audio and Video Algorithm Intern.
 - <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
+- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** My work **DCAYOLO** was published in *Transactions of the Chinese Society for Agricultural Machinery*.
 
 Selected Publications
 ======
