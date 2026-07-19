@@ -134,7 +134,7 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
 
 Reinforcement learning, UAV visual detection, and edge-device meter detection and reading.
 
-Honors and Awards
+Selected Honors and Awards
 ======
 
 ### Competition Awards
@@ -147,7 +147,7 @@ Honors and Awards
 - **2023 — Provincial Second Prize**, Huawei ICT Competition Guangdong Final **(Team Leader)**
 - **2022 — First Prize**, Huashu Cup International Mathematical Contest in Modeling **(Team Leader)**
 
-### Personal Honors and Academic Service
+### Selected Personal Honors and Academic Service
 
 - Student Research Assistant with full lab scholarship funding, University of Macau
 - Outstanding Graduate, South China Agricultural University
