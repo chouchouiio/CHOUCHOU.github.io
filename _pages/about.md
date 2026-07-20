@@ -123,7 +123,7 @@ Reinforcement learning, UAV visual detection, and edge-device meter detection an
 Selected Honors and Awards
 ======
 
-### Competition Awards
+### Selected Competition Awards （10+）
 
 - **2024 — Outstanding Winner**, COMAP's Mathematical Contest in Modeling (MCM) **(Team Leader)**
 - **2024 — National Second Prize and Provincial First Prize**, RAICOM Robot Developer Competition **(Team Leader)**
@@ -133,7 +133,7 @@ Selected Honors and Awards
 - **2023 — Provincial Second Prize**, Huawei ICT Competition Guangdong Final **(Team Leader)**
 - **2022 — First Prize**, Huashu Cup International Mathematical Contest in Modeling **(Team Leader)**
 
-### Selected Personal Honors and Academic Service
+### Selected Personal Honors and Academic Service（10+）
 
 - Student Research Assistant with full lab scholarship funding, University of Macau
 - Outstanding Graduate, South China Agricultural University
@@ -149,3 +149,5 @@ Additional Achievements
 - 3 authorized computer software copyrights
 - 3 invention or utility-model patents
 - CET-4 and CET-6 qualifications
+- Grade 8 (Amateur) in Guitar
+- Taekwondo red belt
