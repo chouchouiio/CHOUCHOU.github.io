@@ -40,21 +40,21 @@ News
 
 Selected Publications
 ======
-1. **PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition.** **Dejing Zhou** et al. *IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027. [DOI](https://doi.org/10.1109/LRA.2026.3683589)
+1. **PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition.**. *IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027. [DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
-✒️  **Dejing Zhou**, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong.  
+ - **Dejing Zhou**, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong.  
 
-2. **SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** **Dejing Zhou** et al. *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
+2. **SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** . *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
-✒️  **Dejing Zhou** , Liulei Zhang, Derek.F Wong, and Chi-Man Vong.  
+ - **Dejing Zhou** , Liulei Zhang, Derek.F Wong, and Chi-Man Vong.  
 
-3. **MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** **Dejing Zhou**, Junxian Chen, et al. *Frontiers in Plant Science*, 2026. first author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
+3. **MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.**. *Frontiers in Plant Science*, 2026. first author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
-✒️  **Dejing Zhou**, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao. 
+ - **Dejing Zhou**, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao. 
 
-4. **Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** Mentor first author; **Dejing Zhou** as first student author. *Transactions of the Chinese Society for Agricultural Machinery*, 2025. EI-indexed. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
+4. **Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** Mentor first author. *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
-✒️  **Dejing Zhou** as first student author and main contributor. (The journal requires the supervisor to be listed as the first author.) 
+ - **Dejing Zhou** as first student author and main contributor. (The journal requires the supervisor to be listed as the first author.) 
 
 
 
