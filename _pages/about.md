@@ -54,7 +54,8 @@ Selected Publications
 
 4.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
- - **Dejing Zhou** as first student author and main contributor. (The journal requires the supervisor to be listed as the first author.) 
+ - Xianghua Xu, **Dejing Zhou**, Chaoran Yu, Wanjie Xiong, Yunshi Xiong, Baiyin Wu, Xuanzhu Zeng, Deyuan Ou.
+Dejing Zhou as first student author and main contributor. (The journal requires the supervisor to be listed as the first author.) 
 
 
 
