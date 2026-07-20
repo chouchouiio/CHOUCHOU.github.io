@@ -14,7 +14,7 @@ I received my B.Eng. in Artificial Intelligence from **South China Agricultural 
 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**.
 
-I enjoy playing the guitar and soccer; my favorite musician is Yuki Matsui 🎸 and my favorite soccer player is Dybala ⚽. I look forward to discussing music and sports with you.
+I enjoy playing the guitar, piano and soccer, listening Kpop, classical or cantonese music. My favorite musician is Yuki Matsui 🎸 and my favorite soccer player is Dybala ⚽. I look forward to discussing music and sports with you. By the way, Yunshi Xiong is an outstanding embedded and computer vision algorithm engineer who gave me a lot of help 🌸.
 
 Research Interests
 ======
