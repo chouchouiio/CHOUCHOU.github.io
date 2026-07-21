@@ -45,7 +45,7 @@ Research Interests
   <li><span class="news-date">2025</span> <strong>DCA-YOLO</strong> was published in <em>Transactions of the Chinese Society for Agricultural Machinery</em>.</li>
 </ul>
 
-Selected Publications
+# 📝 Selected Publications
 ======
 1.**PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition.** *IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027. [DOI](https://doi.org/10.1109/LRA.2026.3683589)
 
@@ -70,7 +70,7 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 
 - ✒️**IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 2 (**first/co-first author**).**
 
-Internship Experience
+# 💻 Internship Experience
 ======
 
 
@@ -132,7 +132,7 @@ Reinforcement learning, UAV visual detection, and edge-device meter detection an
 Selected Honors and Awards
 ======
 
-### Selected Competition Awards （10+）
+# 🎖 Selected Competition Awards （10+）
 
 - **2024 — Outstanding Winner**, COMAP's Mathematical Contest in Modeling (MCM) **(Team Leader)**
 - **2024 — National Second Prize and Provincial First Prize**, RAICOM Robot Developer Competition **(Team Leader)**
@@ -142,7 +142,7 @@ Selected Honors and Awards
 - **2023 — Provincial Second Prize**, Huawei ICT Competition Guangdong Final **(Team Leader)**
 - **2022 — First Prize**, Huashu Cup International Mathematical Contest in Modeling **(Team Leader)**
 
-### Selected Personal Honors and Academic Service（10+）
+# 🎖 Selected Personal Honors and Academic Service（10+）
 
 - Student Research Assistant with full lab scholarship funding, University of Macau
 - Outstanding Graduate, South China Agricultural University
