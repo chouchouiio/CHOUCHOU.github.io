@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="home-intro">
 
 Olá pessoal! I am **Dejing Zhou (周德靖)**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with research scholarship funding. My research is supervised by Prof. Chi-Man Vong.
 I received my B.Eng. in Artificial Intelligence from **South China Agricultural University** in 2025. My research was supervised by Prof. Jianqiang Lu.
@@ -15,6 +16,10 @@ I received my B.Eng. in Artificial Intelligence from **South China Agricultural 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**. After graduating with a bachelor's degree, I also serve as a founding partner for two cooperative entrepreneurial ventures currently in the initial startup phase, holding the roles of President and VP, respectively.
 
 I enjoy playing the guitar, piano and soccer, listening Kpop, classical or cantonese music. My favorite musician is Yuki Matsui 🎸 and my favorite soccer player is Dybala ⚽. I look forward to discussing music and sports with you. By the way, Yunshi Xiong is an outstanding embedded and computer vision algorithm engineer who gave me a lot of help 🌸.
+
+</div>
+
+
 
 Research Interests
 ======
@@ -26,17 +31,18 @@ Research Interests
 - Efficient vision architectures, including Mamba and RWKV
 - Autonomous driving and robotic perception
 
-News
-======
+# 🔥 News
 
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined Microsoft AI (MAI) at Microsoft, Bing Group in Beijing as an Applied Scientist Intern.</strong></span>
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **SMBF** was accepted by *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **PHMRNet** was published in *IEEE Robotics and Automation Letters* and transferred to ICRA 2027.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2026:** My work **MSCF-LUNet** was published in *Frontiers in Plant Science*.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Joined the YY Live at Baidu as a Audio and Video Algorithm Intern.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** Graduated from South China Agricultural University as an Outstanding Graduate.
-- <span style="font-size:1.15em;"><strong>🎉 Congratulations! **2025:** My work **DCAYOLO** was published in *Transactions of the Chinese Society for Agricultural Machinery*.
+<ul class="news-list">
+  <li><span class="news-date">2026</span> Joined <strong>Microsoft AI (MAI), Bing Group</strong> in Beijing as an Applied Scientist Intern.</li>
+  <li><span class="news-date">2026</span> <strong>SMBF</strong> was accepted by <em>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</em>.</li>
+  <li><span class="news-date">2026</span> <strong>PHMRNet</strong> was published in <em>IEEE Robotics and Automation Letters</em> and transferred to ICRA 2027.</li>
+  <li><span class="news-date">2026</span> Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.</li>
+  <li><span class="news-date">2026</span> <strong>MSCF-LUNet</strong> was published in <em>Frontiers in Plant Science</em>.</li>
+  <li><span class="news-date">2025</span> Joined Baidu YY Live as an Audio and Video Algorithm Intern.</li>
+  <li><span class="news-date">2025</span> Graduated from South China Agricultural University as an Outstanding Graduate.</li>
+  <li><span class="news-date">2025</span> <strong>DCA-YOLO</strong> was published in <em>Transactions of the Chinese Society for Agricultural Machinery</em>.</li>
+</ul>
 
 Selected Publications
 ======
