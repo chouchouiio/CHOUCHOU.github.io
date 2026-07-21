@@ -71,8 +71,6 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 - ✒️**IEEE Internet of Things Journal × 1, EMNLP × 1, and AAAI × 2 (**first/co-first author**).**
 
 # 💻 Internship Experience
-======
-
 
 <div style="margin:1rem 0 0.35rem;">
   <div>
