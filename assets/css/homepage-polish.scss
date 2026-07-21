@@ -447,4 +447,318 @@ body {
     max-width: 135px;
     height: 44px;
   }
+   /* =========================================================
+   Publication refinements
+   ========================================================= */
+
+.publication-card--text-only {
+* grid-template-columns: minmax(0, *fr);
+}
+
+.publication-card--text-on*y .publication-content {
+  width: *00%;
+}
+
+.publication-title {
+  dis*lay: inline-block;
+  color: var(--*ome-link);
+  font-size: 1rem;
+  fo*t-weight: 650;
+  line-height: 1.48*
+  text-decoration: none;
+}
+
+.publ*cation-title:hover {
+  color: #214*72;
+  text-decoration: underline;
+* text-underline-offset: 3px;
+}
+
+.p*blication-authors {
+  margin-top: *.48rem;
+  color: #4f565e;
+  font-s*ze: 0.9rem;
+  line-height: 1.55;
+}*
+.publication-authors strong {
+  c*lor: #343a40;
+  font-weight: 700;
+*
+
+.publication-venue {
+  margin-to*: 0.25rem;
+  color: #626a72;
+  fon*-size: 0.9rem;
+  line-height: 1.5;*}
+
+.publication-links {
+  display:*flex;
+  flex-wrap: wrap;
+  gap: 0.*5rem 0.7rem;
+  align-items: center*
+  margin-top: 0.58rem;
+}
+
+.public*tion-links a,
+.publication-label {*  display: inline-flex;
+  align-it*ms: center;
+  min-height: 25px;
+  *adding: 0.18rem 0.52rem;
+  border:*1px solid #d9e2ea;
+  border-radius* 4px;
+  background: #f7f9fb;
+  color: #38678f;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  border-color: #b9ccdc;
+  background: #edf4f9;
+  color: #234f76;
+  text-decoration: none;
+}
+
+.publication-description {
+  margin: 0.68rem 0 0;
+  padding-left: 1.18rem;
+  color: #5d656d;
+  font-size: 0.88rem;
+  line-height: 1.58;
+}
+
+.publication-description li {
+  margin-bottom: 0.28rem;
+}
+
+.publication-description li:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   Manuscripts under review
+   ========================================================= */
+
+.manuscript-summary {
+  di*play: grid;
+  grid-template-column*: repeat(3, minmax(0, 1fr));
+  gap* 0.75rem;
+  margin: 0.9rem 0 0.65r*m;
+}
+
+.manuscript-stat {
+  display* flex;
+  align-items: center;
+  ga*: 0.7rem;
+  min-height: 60px;
+  pa*ding: 0.72rem 0.85rem;
+  border: 1*x solid #e0e6eb;
+  border-radius: 6px;
+  background: #f8fafc;
+}
+
+.manuscript-number {
+  display: inline-flex;
+  flex: 0 0 34px;
+  width: 34px;
+  height: 34px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #356b9a;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.manuscript-name {
+  color: #46515b;
+  font-size: 0.84rem;
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.manuscript-note {
+  margin-top: 0.5rem;
+  color: #69717a;
+  font-size: 0.86rem;
+  font-style: italic;
+}
+
+
+/* =========================================================
+   Internship experience refinements
+   ========================================================= */
+
+.experience-item {
+  display: g*id;
+  grid-template-columns: 155px*minmax(0, 1fr);
+  gap: 1.35rem;
+  *lign-items: center;
+  padding: 1.3*rem 0;
+  border-bottom: 1px solid *ar(--home-border);
+}
+
+.experience-*tem:first-of-type {
+  padding-top:*0.7rem;
+}
+
+.experience-logo {
+  di*play: flex;
+  min-height: 70px;
+  *lign-items: center;
+  justify-cont*nt: flex-start;
+}
+
+.experience-log* img {
+  display: block;
+  width: *uto;
+  max-width: 145px;
+  max-hei*ht: 58px;
+  object-fit: contain;
+}*
+.experience-logo-group {
+  displa*: flex;
+  flex-direction: column;
+* align-items: flex-start;
+  gap: 9*x;
+}
+
+.experience-logo-group img {*  max-width: 125px;
+  max-height: *2px;
+}
+
+.experience-content {
+  mi*-width: 0;
+}
+
+.experience-title {
+* margin-bottom: 0.25rem;
+  color: *343a40;
+  font-size: 1rem;
+  font-*eight: 700;
+  line-height: 1.42;
+}*
+.experience-separator {
+  padding* 0 0.2rem;
+  color: #9aa1a8;
+  fon*-weight: 400;
+}
+
+.experience-meta *
+  margin-bottom: 0.5rem;
+  color:*#68717a;
+  font-size: 0.86rem;
+  f*nt-weight: 600;
+  line-height: 1.45;
+}
+
+.experience-description {
+  color: #555e66;
+  font-size: 0.9rem;
+  line-height: 1.58;
+}
+
+.experience-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.38rem;
+  margin-top: 0.72rem;
+}
+
+.experience-tags span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 0.16rem 0.48rem;
+  border: 1px solid #dce4eb;
+  border-radius: 4px;
+  background: #f7f9fb;
+  color: #536b7e;
+  font-size: 0.73rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+
+/* =========================================================
+   Responsive layout
+   ========================================================= */
+
+@media (max-width: 760px) {
+  .*anuscript-summary {
+    grid-templ*te-columns: 1fr;
+    gap: 0.55rem;*  }
+
+  .manuscript-stat {
+    min-*eight: 52px;
+  }
+
+  .experience-it*m {
+    grid-template-columns: 1fr*
+    gap: 0.75rem;
+    align-items* start;
+  }
+
+  .experience-logo {
+*   min-height: 0;
+    padding-bott*m: 0.15rem;
+  }
+
+  .experience-log* img {
+    max-width: 135px;
+    m*x-height: 52px;
+  }
+
+  .experience*logo-group {
+    flex-direction: r*w;
+    flex-wrap: wrap;
+    align-*tems: center;
+    gap: 10px 16px;
+* }
+
+  .experience-logo-group img {*    max-width: 105px;
+    max-heig*t: 38px;
+  }
+
+  .experience-title *
+    font-size: 0.96rem;
+  }
+
+  .e*perience-separator {
+    display: *one;
+  }
+
+  .publication-links {
+ *  gap: 0.38rem;
+  }
+}
+
+@media (max*width: 480px) {
+  .publication-car* {
+    padding: 1.1rem 0;
+  }
+
+  .*ublication-title {
+    font-size: *.94rem;
+  }
+
+  .publication-author*,
+  .publication-venue,
+  .experie*ce-description {
+    font-size: 0.*5rem;
+  }
+
+  .experience-title {
+ *  line-height: 1.5;
+  }
+
+  .experi*nce-tags span,
+  .publication-link* a,
+  .publication-label {
+    fon*-size: 0.7rem;
+  }
 }
