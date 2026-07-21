@@ -1,12 +1,7 @@
----
----
-
 /* =========================================================
    Homepage Polish
-   Academic personal homepage styles
+   Safe plain-CSS version
    ========================================================= */
-
-/* ---------- Theme variables ---------- */
 
 :root {
   --home-text: #41464d;
@@ -22,36 +17,24 @@
   --home-sidebar-width: 205px;
 }
 
-
-/* =========================================================
-   Global typography
-   ========================================================= */
+/* 全局字体 */
 
 body {
   color: var(--home-text);
-  font-family:
-    Inter,
-    "Segoe UI",
-    "Helvetica Neue",
-    Arial,
-    "PingFang SC",
-    "Microsoft YaHei",
-    sans-serif;
+  font-family: Inter, "Segoe UI", "Helvetica Neue", Arial,
+    "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 15px;
   line-height: 1.68;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
-
-/* =========================================================
-   Top navigation
-   ========================================================= */
+/* 顶部导航栏 */
 
 .masthead {
-  border-bottom: *px solid #eceef0;
-  background: rg*a(255, 255, 255, 0.96);
-  box-shad*w: none;
+  border-bottom: 1px solid #eceef0;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: none;
 }
 
 .masthead__inner-wrap {
@@ -80,15 +63,12 @@ body {
   background: var(--home-accent);
 }
 
-
-/* =========================================================
-   Main page layout
-   ========================================================= */
+/* 主页面布局 */
 
 #main {
-  max-width: var(--home*max-width);
+  max-width: var(--home-max-width);
   margin-right: auto;
-* margin-left: auto;
+  margin-left: auto;
   padding: 2rem 1.5rem 4rem;
 }
 
@@ -110,11 +90,7 @@ body {
   margin-bottom: 0.72rem;
 }
 
-
-/* =========================================================
-   Homepage banner
-   The original University of Macau banner remains unchanged
-   ========================================================= */
+/* 首页 Banner，保持原 Logo 不变 */
 
 .page__hero,
 .page__hero--overlay,
@@ -131,32 +107,31 @@ body {
   object-fit: contain;
 }
 
-
-/* =========================================================
-   Author sidebar
-   ========================================================= */
+/* 左侧个人资料栏 */
 
 .sidebar {
-  width: var(--home-*idebar-width);
+  width: var(--home-sidebar-width);
   opacity: 1;
 }
 
-.a*thor__avatar img {
-  width: 145px;*  height: 145px;
+.author__avatar img {
+  width: 145px;
+  height: 145px;
   padding: 4px;
- *border: 1px solid #ebedf0;
-  borde*-radius: 50%;
-  object-fit: cover;*  box-shadow: none;
+  border: 1px solid #ebedf0;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: none;
 }
 
-.author__co*tent {
+.author__content {
   margin-top: 0.8rem;
 }
 
-.a*thor__name {
+.author__name {
   margin-top: 0;
-  ma*gin-bottom: 0.25rem;
-  color: var(*-home-heading);
+  margin-bottom: 0.25rem;
+  color: var(--home-heading);
   font-size: 1.26rem;
   font-weight: 700;
   line-height: 1.3;
@@ -190,13 +165,9 @@ body {
 .author__urls a:hover {
   color: var(--home-link-hover);
   text-decoration: underline;
-  text-underline-offset: 2px;
 }
 
-
-/* =========================================================
-   Introduction
-   ========================================================= */
+/* 首页简介 */
 
 .home-intro {
   margin-bottom: 1.15rem;
@@ -213,10 +184,7 @@ body {
   font-weight: 700;
 }
 
-
-/* =========================================================
-   Affiliation logos
-   ========================================================= */
+/* 学校和机构 Logo */
 
 .home-affiliations {
   display: flex;
@@ -234,13 +202,10 @@ body {
   object-fit: contain;
 }
 
-
-/* =========================================================
-   Section headings
-   ========================================================= */
+/* 标题 */
 
 .page__content h1 {
-  margin: 2*em 0 1rem;
+  margin: 2rem 0 1rem;
   padding-bottom: 0.45rem;
   border-bottom: 1px solid var(--home-border);
   color: var(--home-heading);
@@ -267,10 +232,7 @@ body {
   line-height: 1.4;
 }
 
-
-/* =========================================================
-   Links
-   ========================================================= */
+/* 正文链接 */
 
 .page__content a {
   color: var(--home-link);
@@ -283,10 +245,7 @@ body {
   text-underline-offset: 2px;
 }
 
-
-/* =========================================================
-   News
-   ========================================================= */
+/* News */
 
 .news-list {
   margin: 0;
@@ -307,19 +266,17 @@ body {
   font-weight: 500;
 }
 
-
-/* =========================================================
-   Research-interest tags
-   ========================================================= */
+/* Research Interests */
 
 .research-tags {
-  displa*: flex;
+  display: flex;
   flex-wrap: wrap;
-  gap: *.5rem;
+  gap: 0.5rem;
   margin: 0.75rem 0 1rem;
-}*
+}
+
 .research-tags span {
-  display: *nline-flex;
+  display: inline-flex;
   align-items: center;
   min-height: 28px;
   padding: 0.28rem 0.65rem;
@@ -332,10 +289,9 @@ body {
   line-height: 1.25;
 }
 
-
 /* =========================================================
-   Publication cards
-   Default: left image and right text
+   论文卡片
+   有图片时为左图右文
    ========================================================= */
 
 .publication-card {
@@ -348,20 +304,8 @@ body {
   border-bottom: 1px solid var(--home-border);
 }
 
-.publication-card:first-of-type {
-  padding-top: 0.7rem;
-}
-
-/*
-  Add publication-card--text-only when a publication does not
-  have an image.
-*/
 .publication-card--text-only {
   grid-template-columns: minmax(0, 1fr);
-}
-
-.publication-card--text-only .publication-content {
-  width: 100%;
 }
 
 .publication-image {
@@ -378,7 +322,7 @@ body {
   height: 190px;
   border: 1px solid #dfe3e7;
   border-radius: 3px;
-  background: #fff;
+  background: #ffffff;
   object-fit: contain;
   box-shadow: 0 2px 7px rgba(25, 35, 45, 0.13);
 }
@@ -392,7 +336,7 @@ body {
   margin-bottom: 0.42rem;
   color: var(--home-link);
   font-size: 1rem;
-  font-weight: 650;
+  font-weight: 600;
   line-height: 1.48;
   text-decoration: none;
 }
@@ -400,7 +344,6 @@ body {
 .publication-title:hover {
   color: var(--home-link-hover);
   text-decoration: underline;
-  text-underline-offset: 3px;
 }
 
 .publication-authors {
@@ -468,13 +411,8 @@ body {
   margin-bottom: 0.28rem;
 }
 
-.publication-description li:last-child {
-  margin-bottom: 0;
-}
-
-
 /* =========================================================
-   Manuscripts under review
+   在审论文
    ========================================================= */
 
 .manuscript-summary {
@@ -504,7 +442,7 @@ body {
   justify-content: center;
   border-radius: 50%;
   background: #356b9a;
-  color: #fff;
+  color: #ffffff;
   font-size: 0.95rem;
   font-weight: 700;
 }
@@ -512,7 +450,7 @@ body {
 .manuscript-name {
   color: #46515b;
   font-size: 0.84rem;
-  font-weight: 650;
+  font-weight: 600;
   line-height: 1.35;
 }
 
@@ -523,9 +461,8 @@ body {
   font-style: italic;
 }
 
-
 /* =========================================================
-   Internship experience
+   实习经历
    ========================================================= */
 
 .experience-item {
@@ -535,10 +472,6 @@ body {
   align-items: center;
   padding: 1.35rem 0;
   border-bottom: 1px solid var(--home-border);
-}
-
-.experience-item:first-of-type {
-  padding-top: 0.7rem;
 }
 
 .experience-logo {
@@ -621,10 +554,7 @@ body {
   line-height: 1.2;
 }
 
-
-/* =========================================================
-   Honors, awards, and compact lists
-   ========================================================= */
+/* 普通紧凑列表 */
 
 .compact-list {
   margin-top: 0.35rem;
@@ -636,40 +566,22 @@ body {
   line-height: 1.48;
 }
 
-.home-badge {
-  display: inline-block;
-  margin-left: 0.35rem;
-  padding: 0.1rem 0.42rem;
-  border-radius: 3px;
-  background: #edf3f8;
-  color: #37658e;
-  font-size: 0.75rem;
-  font-weight: 700;
-  vertical-align: middle;
-}
+/* 桌面端 */
 
-
-/* =========================================================
-   Desktop layout
-   ========================================================= */
-
-@media (min-width: 64em) {
+@media screen and (min-width: 1024px) {
   .sidebar {
     padding-right: 1.4rem;
   }
 
   .page {
-    width: calc(100% - var(--home-sidebar-width));
+    width: calc(100% - 205px);
     padding-left: 2rem;
   }
 }
 
+/* 平板和手机 */
 
-/* =========================================================
-   Tablet layout
-   ========================================================= */
-
-@media (max-width: 63.99em) {
+@media screen and (max-width: 1023px) {
   #main {
     padding: 1.25rem 1rem 3rem;
   }
@@ -685,21 +597,15 @@ body {
   }
 }
 
+/* 手机 */
 
-/* =========================================================
-   Mobile layout
-   ========================================================= */
-
-@media (max-width: 760px) {
-  .publication-card {
+@media screen and (max-width: 760px) {
+  .publication-card,
+  .publication-card--text-only {
     grid-template-columns: 1fr;
     gap: 0.9rem;
     align-items: start;
     padding: 1.2rem 0;
-  }
-
-  .publication-card--text-only {
-    grid-template-columns: 1fr;
   }
 
   .publication-image {
@@ -717,10 +623,6 @@ body {
     gap: 0.55rem;
   }
 
-  .manuscript-stat {
-    min-height: 52px;
-  }
-
   .experience-item {
     grid-template-columns: 1fr;
     gap: 0.75rem;
@@ -729,7 +631,6 @@ body {
 
   .experience-logo {
     min-height: 0;
-    padding-bottom: 0.15rem;
   }
 
   .experience-logo img {
@@ -749,25 +650,14 @@ body {
     max-height: 38px;
   }
 
-  .experience-title {
-    font-size: 0.96rem;
-  }
-
   .experience-separator {
     display: none;
   }
-
-  .publication-links {
-    gap: 0.38rem;
-  }
 }
 
+/* 小尺寸手机 */
 
-/* =========================================================
-   Small-phone layout
-   ========================================================= */
-
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
   body {
     font-size: 14px;
   }
@@ -786,19 +676,6 @@ body {
     font-size: 1.05rem;
   }
 
-  .home-affiliations {
-    gap: 14px;
-  }
-
-  .home-affiliations img {
-    max-width: 135px;
-    height: 44px;
-  }
-
-  .publication-card {
-    padding: 1.1rem 0;
-  }
-
   .publication-title {
     font-size: 0.94rem;
   }
@@ -809,17 +686,9 @@ body {
     font-size: 0.85rem;
   }
 
-  .experience-title {
-    line-height: 1.5;
-  }
-
   .experience-tags span,
   .publication-links a,
   .publication-label {
     font-size: 0.7rem;
-  }
-
-  .research-tags span {
-    font-size: 0.76rem;
   }
 }
