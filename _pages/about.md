@@ -144,8 +144,8 @@ Selected Honors and Awards
 
 - Student Research Assistant with full lab scholarship funding, University of Macau
 - Outstanding Graduate, South China Agricultural University
-- Nominee for Academic Star
-- Outstanding Communist Party Member
+- Nominee for Academic Star, South China Agricultural University
+- Outstanding Communist Party Member, South China Agricultural University
 - Vice President, Artificial Intelligence Association, South China Agricultural University
 - Reviewer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2027)
 
