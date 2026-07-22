@@ -35,7 +35,7 @@ Research Interests
 # 🔥 News
 
 <ul class="news-list">
-  <li><span class="news-date">2026</span> <strong>Joined Microsoft AI (MAI) at Microsoft, Bing Group in Beijing as an Applied Scientist Intern.</strong>J</li>
+  <li><span class="news-date">2026</span> <strong>Joined MAI at Microsoft, Bing Group in Beijing as an Applied Scientist Intern.</strong></li>
   <li><span class="news-date">2026</span> SMBF was accepted by <em>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</em>.</li>
   <li><span class="news-date">2026</span> PHMRNet was published in <em>IEEE Robotics and Automation Letters</em> and transferred to ICRA 2027.</li>
   <li><span class="news-date">2026</span> Joined the Technical Research Institute at Papergames as a Visual Image Algorithm Intern.</li>
