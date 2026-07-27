@@ -48,8 +48,9 @@ Research Interests
 # 📝 Selected Publications
 
 1.**PHMRNet: Persistent Homology based Mamba-RWKV Network for LiDAR Place Recognition.** *IEEE Robotics and Automation Letters*, 2026. First author. Transferred to ICRA 2027. [DOI](https://doi.org/10.1109/LRA.2026.3683589)
-
+<sub>
  - **Dejing Zhou**, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
+</sub>
 
 2.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
