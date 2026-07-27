@@ -52,7 +52,8 @@ Research Interests
 <font size="5">
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
 </font>
-
+<font size="5">
+</font>
 2.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
 <font size="5">
