@@ -51,27 +51,27 @@ Research Interests
 
 <font size="5">
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
-</font> <br> 
+</font> <br> ··
 
 
 2.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
 <font size="5">
  <strong>Dejing Zhou</strong> , Liulei Zhang, Derek.F Wong, and Chi-Man Vong*.  
-</font><br>
+</font><br>··
 
 3.**MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** *Frontiers in Plant Science*, 2026. first author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
 <font size="5">
  <strong>Dejing Zhou</strong>, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao*. 
-</font><br>
+</font><br>··
 
 4.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
 <font size="5">
   <strong>Xianghua Xu^</strong>, <strong>Dejing Zhou^</strong>, Chaoran Yu, Wanjie Xiong*, Yunshi Xiong, Baiyin Wu, Xuanzhu Zeng, Deyuan Ou.
 Dejing Zhou as first student author and main contributor. (The journal requires the supervisor to be listed as the first author.) 
-</font><br>
+</font><br>··
 
 
 ### Manuscripts Under Review
