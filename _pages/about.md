@@ -116,7 +116,7 @@ Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision,
   </div>
 </div>
 
-Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis.
+Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synthesis. Participated in and drove the productization of the AI ​​vocal enhancer project, specifically focusing on the workflows for speaker voiceprint recognition, segmentation, and parallel voice conversion.
 
 
 <div style="margin:1.35rem 0 0.35rem;">
