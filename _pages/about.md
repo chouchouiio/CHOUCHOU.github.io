@@ -131,7 +131,7 @@ Speaker recognition, speech segmentation, ECAPA-TDNN, and AI singing voice synth
   </div>
 </div>
 
-Reinforcement learning, UAV visual detection, and edge-device meter detection and reading. Published an invention patent for urban traffic planning based on reinforcement learning methods. Under the guidance of a supervisor from South China University of Technology.
+Reinforcement learning, UAV visual detection, and edge-device meter detection and reading. Published an invention patent for urban traffic planning based on reinforcement learning methods. Independently completed two commissioned corporate technical projects: high-sensitivity, real-time detection of multiple physical instrument gauges and their readings in a factory workshop environment, and industrial damage detection using low-altitude drone-based remote sensing. Under the guidance of a supervisor from South China University of Technology.
 
 
 
