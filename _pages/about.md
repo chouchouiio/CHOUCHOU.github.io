@@ -91,7 +91,7 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
   </div>
 </div>
 
-LLMs, agents, ML/DL for Answer Reranking, and AI Search in Bing Group. Lead for Pre-development Algorithm Implementation and Demo Design.
+LLMs, agents, ML/DL for Answer Reranking, and AI Search in **Bing** Group. Lead for Pre-development Algorithm Implementation and Demo Design.
 
 
 <div style="margin:1.35rem 0 0.35rem;">
@@ -104,7 +104,7 @@ LLMs, agents, ML/DL for Answer Reranking, and AI Search in Bing Group. Lead for 
   </div>
 </div>
 
-Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows. Independently led the algorithmic implementation and ComfyUI workflow design for panoramic image and world model scene generation within an AI image generation product.
+Image-to-image generation, LoRA fine-tuning, visual segmentation, mobile vision, face tracking, and controllable image workflows. Independently led the algorithmic implementation and ComfyUI workflow design for panoramic image and world model scene generation within an AI image generation product. Work for 无限暖暖, 闪耀暖暖.
 
 
 <div style="margin:1.35rem 0 0.35rem;">
