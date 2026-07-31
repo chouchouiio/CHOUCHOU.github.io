@@ -165,5 +165,5 @@ Additional Achievements
 - 3 authorized computer software copyrights
 - 3 invention or utility-model patents
 - CET-4 and CET-6 qualifications
-- Grade 8 (Amateur) in Guitar
+- Grade 10 (Amateur) in Guitar
 - Taekwondo red belt
