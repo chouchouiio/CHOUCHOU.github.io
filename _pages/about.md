@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Olá pessoal! I am Dejing Zhou (周德靖), an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with research scholarship funding. My research is supervised by Prof. Chi-Man Vong.
+Olá pessoal! I am Dejing Zhou (周德靖), an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with research scholarship funding. My research is supervised by Prof. Chi-Man Vong. I am currently an Applied Scientist summer intern at Microsoft's MAI and Bing Search team.
 I received my B.Eng. degree in Artificial Intelligence as an outstanding graduate from **South China Agricultural University** in 2025. My research was supervised by Prof. Jianqiang Lu.
 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**. After graduating with a bachelor's degree, I also serve as a founding partner for two cooperative entrepreneurial ventures currently in the initial startup phase, holding the roles of President and VP, respectively. By the way, my G-friend Yunshi Xiong is an outstanding embedded and computer vision algorithm engineer who gave me a lot of help 🌸.
