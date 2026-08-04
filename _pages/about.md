@@ -84,9 +84,9 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 
 **A fruit tree phenotype acquisitionmethod based on collaborativedeep learning and 3D reconstruc-tion technology InventionApplication**
 
-A method and system for urban waste collection and transportation based on reinforcement learning
+**A method and system for urban waste collection and transportation based on reinforcement learning**
 
-Dam deformation detectionmechanism and dam deformationdetection device Utility Model
+**Dam deformation detectionmechanism and dam deformationdetection device Utility Model**
 
 # 💻 Internship Experience
 
