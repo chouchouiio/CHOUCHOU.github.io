@@ -176,3 +176,17 @@ Additional Achievements
 - CET-4 and CET-6 qualifications
 - Grade 10 (Amateur) in Guitar
 - Taekwondo red belt
+
+Collaborators (Students):
+- Liulei Zhang (MS)
+- Xinyu Jiang (PhD)
+- Yunshi Xiong (Engineer)
+- Wenxi Cai (MS)
+- Junxian Chen (BA)
+- Minhao Ye (MS)
+- Baihan Liu (MS)
+- Sitao Chen (MS)
+- Zhonghao Cai (MS)
+- Jie Lin (BA)
+- Tiantian Meng (BA)
+- Xinle Lin (MS)
