@@ -193,8 +193,11 @@ Research Collaborators (Students):
 - Minhao Ye (MS)
 - Baihan Liu (MS)
 - Sitao Chen (MS)
+- Baiyin Wu (MS)
 - Zhonghao Cai (MS)
 - Jie Lin (BA)
 - Tiantian Meng (BA)
+- Xuanzhu Zeng (MS)
 - Xinle Lin (MS)
+- Deyuan Ou (MS)
 
