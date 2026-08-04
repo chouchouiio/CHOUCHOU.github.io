@@ -184,7 +184,7 @@ Supervisor and student mentor:
 - Xinyu Jiang (PhD)
 - Yanheng Mai (PhD)
 
-Collaborators (Students):
+Research Collaborators (Students):
 - Liulei Zhang (MS)
 - Xinyu Jiang (PhD)
 - Yunshi Xiong (Engineer)
