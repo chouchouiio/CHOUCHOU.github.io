@@ -177,6 +177,13 @@ Additional Achievements
 - Grade 10 (Amateur) in Guitar
 - Taekwondo red belt
 
+Supervisor and student mentor:
+
+- Chi-Man Vong (Prof)
+- Jianqiang Lu (Prof)
+- Xinyu Jiang (PhD)
+- Yanheng Mai (PhD)
+
 Collaborators (Students):
 - Liulei Zhang (MS)
 - Xinyu Jiang (PhD)
@@ -190,3 +197,4 @@ Collaborators (Students):
 - Jie Lin (BA)
 - Tiantian Meng (BA)
 - Xinle Lin (MS)
+
