@@ -200,4 +200,6 @@ Research Collaborators (Students):
 - Xuanzhu Zeng (MS)
 - Xinle Lin (MS)
 - Deyuan Ou (MS)
-
+<div>
+    <img src="{{ '/assets/images/organizations/dijia' | relative_url }}" alt="Microsoft" style="display:block;width:160px;height:auto;object-fit:contain;">
+</div>
