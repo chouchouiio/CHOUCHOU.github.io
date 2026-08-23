@@ -78,7 +78,7 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 
 ### Manuscripts Under Review
 
-- ✒️**IEEE Internet of Things Journal × 1 (Third round), EMNLP × 1 （3 3 3 2.5）, TACL x 1 and AAAI × 1  (**first/co-first author**).**
+- ✒️**IEEE Internet of Things Journal × 1 (Third round), AAAI × 1,  ARR MAY × 1 （3 3 3 2.5） and TACL x 1 (**first/co-first author**).**
 
 ### patents
 
