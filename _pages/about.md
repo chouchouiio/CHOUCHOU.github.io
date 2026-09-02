@@ -52,9 +52,14 @@ Research Interests
 
 <font size="3">
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
-</font> <br>   ··
+</font> <br> 
 
-2. **DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. Accepted. 
+2.**DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. Accepted. 
+
+<font size="3">
+Xinyu Jiang^,  Zhaoning Ge^,  Yimeng Jiang^, Dejing Zhou^, Zhijie Liu,  Jin  Wu, Xieyuanli Chen and Vong, Chi-Man*.  
+^ means Co-first author
+</font><br>··
 
 3.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
