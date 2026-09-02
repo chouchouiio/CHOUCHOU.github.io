@@ -54,20 +54,21 @@ Research Interests
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
 </font> <br>   ··
 
+2. **DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. Accepted. 
 
-2.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
+3.**SMBF: Saliency-Guided Multi-modal Feature Bridging and Bidirectional Fusion for RGB-T Semantic Segmentation.** *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, accepted. First author.
 
 <font size="3">
  <strong>Dejing Zhou</strong> , Liulei Zhang, Derek.F Wong, and Chi-Man Vong*.  
 </font><br>··
 
-3.**MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** *Frontiers in Plant Science*, 2026. first author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
+4.**MSCF-LUNet: A Lightweight Three-Stage Pine Wilt Disease Segmentation Model with Multi-Scale Context Fusion Mechanism.** *Frontiers in Plant Science*, 2026. first author. [DOI](https://doi.org/10.3389/fpls.2025.1727626)
 
 <font size="3">
  <strong>Dejing Zhou</strong>, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao*. 
 </font><br>··
 
-4.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
+5.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
 <font size="3">
   <strong>Xianghua Xu^</strong>, <strong>Dejing Zhou^</strong>, Chaoran Yu, Wanjie Xiong*, Yunshi Xiong, Baiyin Wu, Xuanzhu Zeng, Deyuan Ou.
@@ -78,7 +79,7 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 
 ### Manuscripts Under Review
 
-- ✒️**IEEE Internet of Things Journal × 1 (Minor Revised), AAAI × 1,  ARR MAY × 1 （3 3 3 2.5） and TACL x 1 (**first/co-first author**).**
+- ✒️** AAAI × 1,  ARR MAY × 1 （3 3 3 2.5） and TACL x 1 (**first/co-first author**).**
 
 ### patents
 
