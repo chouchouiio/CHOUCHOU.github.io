@@ -52,7 +52,7 @@ Research Interests
 
 <font size="3">
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
-</font> <br> 
+</font> <br>·· 
 
 2.**DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. Accepted. 
 
