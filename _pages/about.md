@@ -77,7 +77,8 @@ Xinyu Jiang^,  Zhaoning Ge^,  Yimeng Jiang^, Dejing Zhou^, Zhijie Liu,  Jin  Wu,
 
 <font size="3">
  <strong>Liulei Zhang^, Dejing Zhou^</strong>, Chuyue Huang, Guanhua Chen, Yutong Yao, Lidia S. Chao, Chi Man VONG, Derek F. Wong*. 
-
+</font><br>··
+  
 6.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
 <font size="3">
