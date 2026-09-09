@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Olá pessoal! I am Dejing Zhou (周德靖) AKA Felix Zhou, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with research scholarship funding. My research is supervised by Prof. Chi-Man Vong. I am currently an Applied Scientist summer intern at Microsoft's MAI and Bing Search team.
+Olá pessoal! I am **Dejing Zhou (周德靖) AKA Felix Zhou**, an M.Sc. student in Artificial Intelligence at the **University of Macau**, where I also serve as a student research assistant with research scholarship funding. My research is supervised by Prof. Chi-Man Vong. I am currently an Applied Scientist summer intern at Microsoft's MAI and Bing Search team.
 I received my B.Eng. degree in Artificial Intelligence as an outstanding graduate from **South China Agricultural University** in 2025. My research was supervised by Prof. Jianqiang Lu.
 
 My research focuses on **computer vision, multimodal perception, robotic scene understanding, semantic segmentation, visual/LiDAR place recognition, topology-aware deep learning, large language models, and AI agents**. After graduating with a bachelor's degree, I also serve as a founding partner for two cooperative entrepreneurial ventures currently in the initial startup phase, holding the roles of President and VP, respectively. By the way, my Girl friend Yunshi Xiong is an outstanding embedded and computer vision algorithm engineer who gave me a lot of help 🌸.
@@ -54,7 +54,7 @@ Research Interests
  <strong>Dejing Zhou</strong>, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jufeng Yang, Jin Wu, Xieyuanli Chen, and Chi-Man Vong*. 
 </font> <br>·· 
 
-2.**DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. Accepted. 
+2.**DGAOT: Dynamic Graph Attention with Optimal Transport based Re-ranking for Mobile Robot Visual Place Recognition**. *IEEE Internet of Things Journal*, 2026. Co-First author. [DOI](https://ieeexplore.ieee.org/document/11682938)
 
 <font size="3">
 Xinyu Jiang^,  Zhaoning Ge^,  Yimeng Jiang^, Dejing Zhou^, Zhijie Liu,  Jin  Wu, Xieyuanli Chen and Vong, Chi-Man*.  
@@ -73,7 +73,12 @@ Xinyu Jiang^,  Zhaoning Ge^,  Yimeng Jiang^, Dejing Zhou^, Zhijie Liu,  Jin  Wu,
  <strong>Dejing Zhou</strong>, Junxian Chen,  Wenxi Cai , Jie Lin, Tiantian Meng, Yuanhang Li, Baihan Liu, Mengting Luo, Yubin Lan, Tianyi Liu, Jing Zhao*. 
 </font><br>··
 
-5.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
+5.**Evaluating Automated Research: A Survey of Protocols, Evidence, and Validity for AI/NLP/ML Research Workflows** *AACL-IJCNLP*, 2026. Co-First author. 
+
+<font size="3">
+ <strong>Liulei Zhang^, Dejing Zhou^</strong>, Chuyue Huang, Guanhua Chen, Yutong Yao, Lidia S. Chao, Chi Man VONG, Derek F. Wong*. 
+
+6.**Improved Model for Low Altitude Detection of Trees Infected by Pests and Diseases Using Agricultural Drones Based on DCA-YOLO.** *Transactions of the Chinese Society for Agricultural Machinery*, 2025. [DOI](https://doi.org/10.6041/j.issn.1000-1298.2025.10.042)
 
 <font size="3">
   <strong>Xianghua Xu^</strong>, <strong>Dejing Zhou^</strong>, Chaoran Yu, Wanjie Xiong*, Yunshi Xiong, Baiyin Wu, Xuanzhu Zeng, Deyuan Ou.
@@ -82,9 +87,10 @@ Dejing Zhou as first student author and main contributor. (The journal requires 
 </font><br>··
 
 
+
 ### Manuscripts Under Review
 
-- ✒️** AAAI × 1,  ARR MAY × 1 （3 3 3 2.5） and TACL x 1 (**first/co-first author**).**
+- ✒️** AAAI × 1 and TACL x 1 (**first/co-first author**).**
 
 ### patents
 
