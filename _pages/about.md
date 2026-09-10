@@ -36,8 +36,8 @@ Research Interests
 # 🔥 News
 
 <ul class="news-list">
-  <li><span class="news-date">2026</span> A review of Evaluating Automated Research was accepted by <em>AACL-IJCNLP</li>
-  <li><span class="news-date">2026</span> DGAOT was accepted by <em>IEEE IOTJ</li>
+  <li><span class="news-date">2026</span> A review of Evaluating Automated Research was accepted by <em>AACL-IJCNLP</em></li>
+  <li><span class="news-date">2026</span> DGAOT was accepted by <em>IEEE IOTJ</em></li>
   <li><span class="news-date">2026</span> <strong>Joined MAI at Microsoft, Bing Group in Beijing as an Applied Scientist Intern.</strong></li>
   <li><span class="news-date">2026</span> Joined Papergame as an CV Algorithm Intern.</li>
   <li><span class="news-date">2026</span> SMBF was accepted by <em>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</em>.</li>
