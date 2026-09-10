@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "O meu currículo"
+title: "Dejing Zhou"
 author_profile: true
 content_banner: "um-banner.svg"
 content_banner_alt: "University of Macau"
